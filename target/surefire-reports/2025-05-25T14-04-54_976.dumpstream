@@ -1,5 +1,5 @@
 # Created at 2025-05-25T14:04:55.829
-Boot Manifest-JAR contains absolute paths in classpath 'D:\itshit\clean_folder\list-comparator\target\test-classes'
+Boot Manifest-JAR contains absolute paths in classpath 'D:\clean_folder\list-comparator\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
 
