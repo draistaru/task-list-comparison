@@ -72,7 +72,7 @@ Unexpected items:
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)
 	at test.java.stepdefinitions.StepDefinitions.the_lists_should_contain_the_same_items_with_name_price_and_category_regardless_of_order(StepDefinitions.java:53)
-	at ✽.the lists should contain the same items with name, price, and category, regardless of order(file:///D:/itshit/clean_folder/list-comparator/src/test/resources/features/task.feature:15)
+	at ✽.the lists should contain the same items with name, price, and category, regardless of order(file:///D:/clean_folder/list-comparator/src/test/resources/features/task.feature:15)
 ]]></failure>
     <system-out><![CDATA[
 Scenario: Validate that two lists contain the same items with name, price, and category, regardless of order &amp#27;[90m# src/test/resources/features/task.feature:3&amp#27;[0m
@@ -98,7 +98,7 @@ Unexpected items:
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.junit.Assert.assertTrue(Assert.java:42)
 	at test.java.stepdefinitions.StepDefinitions.the_lists_should_contain_the_same_items_with_name_price_and_category_regardless_of_order(StepDefinitions.java:53)
-	at âœ½.the lists should contain the same items with name, price, and category, regardless of order(file:///D:/itshit/clean_folder/list-comparator/src/test/resources/features/task.feature:15)
+	at âœ½.the lists should contain the same items with name, price, and category, regardless of order(file:///D:/clean_folder/list-comparator/src/test/resources/features/task.feature:15)
 &amp#27;[0m
 ]]></system-out>
   </testcase>
