@@ -1,0 +1,6 @@
+utils\ListComparator.class
+utils\ListComparisonResult.class
+model\Item.class
+com\example\AppTest.class
+test\java\testrunner\TestRunner.class
+test\java\stepdefinitions\StepDefinitions.class
